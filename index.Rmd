@@ -14,4 +14,4 @@ output:
   postcards::jolla
 ---
 
-I am a doctoral candidate in Health Policy at the Johns Hopkins School of Public Health. My work is focused on policy to expand access to treatment for substance use disorder, particularly among people experiencing housing insecurity and people involved in the criminal-legal system. I'm especially interested in causal inference and policy evaluation. In my free time, I love to hike, watch reality tv, visit museums, and hunt for new cafes in Baltimore!
+I am a doctoral candidate in Health Policy at the Johns Hopkins School of Public Health. My work is focused on policy to expand access to treatment for substance use disorder, particularly among people experiencing housing insecurity and people involved in the criminal-legal system. I'm especially interested in causal inference and policy evaluation. In my free time, I love to hike, watch reality tv, visit museums, and hunt for new cafes in Baltimore! I am hoping to strengthen my statistics and coding skills through this class.
